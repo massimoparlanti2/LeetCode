@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/massimoparlanti2/LeetCode/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/massimoparlanti2/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/massimoparlanti2/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/massimoparlanti2/LeetCode/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/massimoparlanti2/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/massimoparlanti2/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
