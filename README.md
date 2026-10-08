@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/massimoparlanti2/LeetCode/tree/master/0002-add-two-numbers) |
 | [0836-rectangle-overlap](https://github.com/massimoparlanti2/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/massimoparlanti2/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/massimoparlanti2/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/massimoparlanti2/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/massimoparlanti2/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/massimoparlanti2/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
