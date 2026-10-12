@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/massimoparlanti2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/massimoparlanti2/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/massimoparlanti2/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/massimoparlanti2/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/massimoparlanti2/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/massimoparlanti2/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/massimoparlanti2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/massimoparlanti2/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/massimoparlanti2/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/massimoparlanti2/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/massimoparlanti2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/massimoparlanti2/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/massimoparlanti2/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/massimoparlanti2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/massimoparlanti2/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 <!---LeetCode Topics End-->
